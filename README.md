@@ -20,6 +20,7 @@ The system follows a multi-tier architecture, separating the client-side and ser
 •	Server-Side (Back-End): PHP
 •	Database: MySQL
 The system adopts a Model-View-Controller (MVC) structure, ensuring scalability and maintainability while supporting efficient management of university data.
+
 **4. Admin Login & Dashboard**
 
 **4.1 Admin Login**
