@@ -1,5 +1,7 @@
 **University Management System ( Web-based Project Built in  HTML, CSS, JS and PHP)**
+
 **1. Introduction**
+
 The University System Project is an application designed to streamline the administrative processes of managing faculty, students, and courses. Developed for the course Web Design and Development, the project aims to simulate a basic university management system where an admin can efficiently handle key operations, such as adding, viewing, editing, and deleting faculty and student records, managing courses, and allocating courses to faculty members. The inclusion of edit and delete functionality enhances the system's usability, allowing for better data management and accuracy. Built using modern web development technologies, this project provides a practical, real-world solution for university management.
 
 **2. System Overview**
